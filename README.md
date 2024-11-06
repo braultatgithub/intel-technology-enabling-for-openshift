@@ -9,7 +9,7 @@ These Intel Data Center hardware features include:
 - **Intel® QuickAssist Technology (Intel® QAT)**
 - **Intel® Data Streaming Accelerator (Intel® DSA)** 
 
-Intel AI hardware and optimized software solutions are integrated into Red Hat OpenShift AI for ease of provisioning and configuration. The [Habana AI Operator](https://catalog.redhat.com/software/container-stacks/detail/64342b3bcbfbb9a6588ce8dd?gs&q=habana) is used to provision Intel® Gaudi® accelerators and released on the Red Hat Ecosystem Catalog.
+Intel AI hardware and optimized software solutions are integrated into Red Hat OpenShift AI for ease of provisioning and configuration. The [Intel Gaudi Base Operator](https://catalog.redhat.com/software/container-stacks/detail/6683b2cce45daa25e36bddcb?gs&q=Gaudi) is used to provision Intel® Gaudi® accelerators and released on the Red Hat Ecosystem Catalog.
 
 Red Hat Distributed CI* (DCI) based CI/CD pipeline is leveraged to enable and test this E2E solution with each RHOCP release to ensure new features and improvements can be promptly available.
 
